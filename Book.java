@@ -43,3 +43,7 @@ public class Book {
         return yearPublished;
     }
 }
+// GUMIRAN, HANS JESSIE AUGUSTO M.
+// BSCS-2D
+// AI USED: GEMINI AI (2.5 FLASH)
+// CONVERSATION WITH GEMINI AI (LINK): https://g.co/gemini/share/5f906d59f93a
